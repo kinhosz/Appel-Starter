@@ -1,0 +1,14 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos compilados
+*.exe
+*.out
+*.a
+*.o
+*.dll
+
+# IDEs
+.vscode/
+.DS_Store

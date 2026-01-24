@@ -1,0 +1,3 @@
+[submodule "Appel"]
+	path = Appel
+	url = https://github.com/kinhosz/Appel.git
