@@ -2,7 +2,7 @@
 
 > The official boilerplate for creating graphical applications and games using the **Appel Engine**.
 
-![Appel Version](https://img.shields.io/badge/Appel_Engine-v0.28.0-blueviolet) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-Linux-linux)
+![Appel Version](https://img.shields.io/badge/Appel_Engine-v0.29.0-blueviolet) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-Linux-linux)
 
 This starter pack provides a pre-configured environment with a smart **Makefile** system that handles dependency linking, asset management, and engine compilation automatically. Focus on your game logic; let the build system handle the rest.
 
@@ -14,7 +14,7 @@ This starter pack provides a pre-configured environment with a smart **Makefile*
 Since the engine is a submodule, use the `--recursive` flag to download everything at once.
 
 ```bash
-git clone --recursive [https://github.com/kinhosz/Appel-Starter.git](https://github.com/kinhosz/Appel-Starter.git)
+git clone --recursive git@github.com:kinhosz/Appel-Starter.git
 cd Appel-Starter
 ```
 
